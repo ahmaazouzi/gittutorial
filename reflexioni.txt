@@ -1,0 +1,2 @@
+Running git log will show a list of the recent commits with information about them, including commit IDs. Running git diff followed by two commit IDs will compare the two versions of the code in those commits. If you need a refresher, you may want to rewatch this video.
+If it is easier, you may enter the first four or more characters of the commit ID rather than pasting the entire ID.
